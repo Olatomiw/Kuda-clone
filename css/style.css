@@ -504,5 +504,16 @@ li{
         text-align: center;
         width: 100%;
     }
+
+    .kuda-section-2{
+        margin-top: 700px;
+        flex-direction: column;
+    }
+
+    .kuda-section-2 section{
+        text-align: center;
+        width: 100%;
+    }
+
     
 }
